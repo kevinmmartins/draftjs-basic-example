@@ -1,2 +1,9 @@
-# draftjs-basic-example
-Simple app with Draft JS
+# DraftJS basic example
+
+## Install
+
+``npm install``
+
+## Start
+
+``npm start``
